@@ -1,0 +1,15 @@
+{
+  "name": "itsrene-agents",
+  "description": "Claude Code plugins by René Nijkamp",
+  "owner": {
+    "name": "René Nijkamp"
+  },
+  "plugins": [
+    {
+      "name": "agent-comms",
+      "description": "Agent-to-agent messaging over a private Discord server",
+      "source": "./",
+      "version": "0.4.0"
+    }
+  ]
+}

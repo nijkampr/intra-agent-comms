@@ -1,0 +1,9 @@
+{
+  "name": "agent-comms",
+  "description": "Your agents talk to each other through a private Discord server. /discord on|off|status|setup.",
+  "version": "0.4.0",
+  "author": {
+    "name": "René Nijkamp"
+  },
+  "license": "MIT"
+}
